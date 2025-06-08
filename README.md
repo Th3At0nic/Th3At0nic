@@ -1,35 +1,75 @@
-# Hi there, I'm Md Rahatul Islam (a.k.a Th3At0nic) 👋
+<!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
-I'm a tech-savvy full-stack developer with a passion for creating clean, scalable web applications. I blend robust back-end systems with elegant, interactive front-end designs — all driven by curiosity and a love for code.
+<h1 align="center">Hey, I'm Md Rahatul Islam 👋</h1>
+<h3 align="center">Full-Stack Developer | Clean Code Advocate</h3>
 
-## 🚀 About Me
-- 🔭 Currently exploring and mastering **Next.js**, **Prisma**, and **PostgreSQL**.
-- 🌱 Constantly learning innovative technologies to build faster and more secure applications.
-- 💬 Let's connect! You can reach me at [islammdrahatul@gmail.com](mailto:islammdrahatul@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/mdrahatulislam/).
-
-## 🛠️ Tech Stack
-**Languages & Frameworks:**  
-JavaScript, TypeScript, Node.js, Next.js, React
-
-**Backend & Databases:**  
-Express, Prisma, MongoDB, PostgreSQL
-
-**Tools & Platforms:**  
-Git, GitHub, Vercel
-
-## 🚀 Portfolio & Projects
-Discover my projects and get a sense of my work on my [portfolio](https://my-fullstack-portfolio-frontend.vercel.app/).
-
-## 📊 GitHub Stats
-![Th3At0nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=dark)
+<p align="center">
+  <a href="https://my-fullstack-portfolio-frontend.vercel.app/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/mdrahatulislam/" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:islammdrahatul@gmail.com">📬 Email</a>
+</p>
 
 ---
 
-*“Simplicity is the soul of efficiency.”*
+### 🧠 About Me
 
-Feel free to explore, fork, or connect. I’m always up for a good collaboration!
+I'm a full-stack developer with a strong focus on building clean, scalable backend systems and intuitive user interfaces.
+
+- 🔭 Currently learning & working with **Next.js**, **Prisma**, and **PostgreSQL**
+- 💡 Love exploring design patterns, clean architecture, and smart error handling
+- 🧰 Tech Stack: **JavaScript**, **TypeScript**, **Node.js**, **Express**, **MongoDB**, **React**, **Next.js**, **PostgreSQL**, **Prisma**
+- 💬 Ask me about backend logic, API architecture, or anything full-stack
+- 🧠 Always learning, always building
+
+---
+
+### ⚙️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=radical" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🚀 [My Fullstack Portfolio](https://my-fullstack-portfolio-frontend.vercel.app/)
+- More coming soon...
+
+---
+
+### 💬 Quote I Live By
+
+> “Think more than you code. Code less, but smarter.” – *Me*
+
+---
+
+### 🧭 Let's Connect
+
+- 📧 islammdrahatul@gmail.com  
+- 🌐 [my-fullstack-portfolio-frontend.vercel.app](https://my-fullstack-portfolio-frontend.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdrahatulislam/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Th3At0nic&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
