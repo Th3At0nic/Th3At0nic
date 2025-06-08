@@ -1,7 +1,8 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
-<h1 align="center">Hey, I'm Md Rahatul Islam 👋</h1>
-<h3 align="center">Full-Stack Developer | Clean Code Advocate</h3>
+<h1 align="center">Hey there — I'm Rahat (Muhammad Rahatul Islam) 👋</h1>
+<h3 align="center">I build clean backends, modern frontends, and scalable systems</h3>
+
 
 <p align="center">
   <a href="https://my-fullstack-portfolio-frontend.vercel.app/" target="_blank">🌐 Portfolio</a> • 
