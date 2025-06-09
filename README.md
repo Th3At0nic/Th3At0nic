@@ -58,7 +58,6 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=radical" alt="Top languages" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&langs_count=10&theme=radical)
 
 ---
 
