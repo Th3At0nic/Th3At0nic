@@ -48,6 +48,15 @@ I'm a full-stack developer with a strong focus on building clean, scalable backe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/Th3At0nic/Th3At0nic/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 GitHub Activity Overview
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Th3At0nic&theme=radical)
+
+
 ---
 
 ### 📌 Featured Projects
