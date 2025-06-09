@@ -1,7 +1,10 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
-<h1 align="center">Hey — I'm Rahat (Muhammad Rahatul Islam) 👋</h1>
-<h3 align="center">I build clean backends, modern frontends, and scalable systems</h3>
+<!-- <h1 align="center">Hey — I'm Rahat (Muhammad Rahatul Islam) 👋</h1>
+<h3 align="center">I build clean backends, modern frontends, and scalable systems</h3> -->
+<h1 align="center">Hi, I'm Rahat 👋</h1>
+<h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Scalable System Architect</h3>
+
 
 
 <p align="center">
