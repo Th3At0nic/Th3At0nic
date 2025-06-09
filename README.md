@@ -53,11 +53,6 @@ I'm a full-stack developer with a strong focus on building clean, scalable backe
 ![Snake animation](https://github.com/Th3At0nic/Th3At0nic/blob/output/github-contribution-grid-snake.svg)
 
 
-## 📊 GitHub Activity Overview
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Th3At0nic&theme=radical)
-
-
 ---
 
 ### 📌 Featured Projects
