@@ -66,7 +66,7 @@ I'm a full-stack developer with a strong focus on building clean, scalable backe
 ### 🧭 Let's Connect
 
 - 📧 islammdrahatul@gmail.com  
-- 🌐 [my-fullstack-portfolio-frontend.vercel.app](https://my-fullstack-portfolio-frontend.vercel.app/)  
+- 🌐 [Rahat.dev](https://my-fullstack-portfolio-frontend.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mdrahatulislam/)
 
 ---
