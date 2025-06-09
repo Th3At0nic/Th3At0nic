@@ -1,7 +1,5 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
