@@ -56,7 +56,7 @@ I'm a full-stack developer with a strong focus on building clean, scalable backe
 - 🚀 [Street Food Finder Review Website](https://street-bite-frontend.vercel.app/)
 - 🚀 [My Fullstack Portfolio](https://my-fullstack-portfolio-frontend.vercel.app/)
 - 🚀 [BPL - Team Selection App](https://teamselection.netlify.app/)
-- 🚀 [University Management System] -- Coming soon (Backend all done, frontend is not ready)
+- 🚀 University Management System -- Coming soon (Backend all done, frontend is not ready)
 - 🚀 Bike Service Center -- Coning Soon (Backend done, Frontend is to be made)
 - More coming soon...
 
