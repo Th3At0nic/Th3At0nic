@@ -1,21 +1,6 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
-<!-- <h1 align="center">Hi, I'm Rahat 👋</h1> -->
-<h1 align="center">Hi, I'm Rahat <span style="display:inline-block; animation:wave 2s infinite;">👋</span></h1>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
-
+<h1 align="center">Hi, I'm Rahat 👋</h1>
 <h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Scalable System Architect</h3>
 
 <p align="center">
