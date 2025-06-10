@@ -14,11 +14,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=midnight-purple" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=calm" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=midnight-purple" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=calm" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=midnight-purple" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=calm" alt="Top languages" />
 </p>
 
 ---
