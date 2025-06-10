@@ -1,5 +1,16 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
+<h1 align="center">Hi, I'm Rahat 👋</h1>
+<h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Scalable System Architect</h3>
+
+<p align="center">
+  <a href="https://my-fullstack-portfolio-frontend.vercel.app/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/mdrahatulislam/" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:islammdrahatul@gmail.com">📬 Email</a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -8,17 +19,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=radical" alt="GitHub streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-<h1 align="center">Hi, I'm Rahat 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Scalable System Architect</h3>
-
-<p align="center">
-  <a href="https://my-fullstack-portfolio-frontend.vercel.app/" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/mdrahatulislam/" target="_blank">💼 LinkedIn</a> • 
-  <a href="mailto:islammdrahatul@gmail.com">📬 Email</a>
 </p>
 
 ---
