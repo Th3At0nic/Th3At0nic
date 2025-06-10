@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=merko" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=s" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=merko" alt="GitHub streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko" alt="Top languages" />
 </p>
