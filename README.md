@@ -29,7 +29,7 @@ I'm a full-stack web developer passionate about building reliable, scalable back
 Currently focusing on modern web technologies like **Next.js**, **Prisma**, and **PostgreSQL**.
 
 - 🛠️ Specializing in **backend architecture**, RESTful APIs, and full-stack apps.
-- 💡 I love clean code, smart design patterns, and meaningful abstractions.
+- 💡 I love clean code, smart design patterns, and meaningful abstractions
 - 🌱 Always learning, building, and solving problems with curiosity and care.
 - 🧰 Tech Stack: TypeScript, Node.js, Express, MongoDB, PostgreSQL, Prisma, React, Next.js
 
