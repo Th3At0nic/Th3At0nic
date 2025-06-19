@@ -18,6 +18,8 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=merko" alt="GitHub streak" />
   <br />
+  <img src="https://streak-stats.demolab.com/?user=Th3At0nic&theme=merko" alt="GitHub streak" />
+<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko" alt="Top languages" />
 </p>
 
