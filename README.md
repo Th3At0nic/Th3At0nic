@@ -1,5 +1,8 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
+<p align="center">
+  <img src="./assets/Hello World.gif" alt="animated banner" width="100%" />
+</p>
 <h1 align="center">Hi, I'm Rahat 👋</h1>
 <h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Scalable System Architect</h3>
 
