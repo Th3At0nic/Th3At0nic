@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./assets/Hello World.gif" alt="animated banner" width="30%" />
 </p>
-<h1 align="center">Hi, I'm Rahat 👋</h1>
+<h1 align="center">I'm Rahat 👋</h1>
 <h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Scalable System Architect</h3>
 
 <p align="center">
