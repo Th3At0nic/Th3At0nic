@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdrahatulislam/" target="_blank">
-    <img src="./assets/Banner.png" alt="banner image" width="100%" height="80%" />
+    <img src="./assets/Banner.png" alt="banner image" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="./assets/Hello World.gif" alt="animated banner" width="27%" />
+  <img src="./assets/Hello World.gif" alt="animated banner" width="25%" />
 </p>
 <h1 align="center">I'm Rahat 👋</h1>
 <h3 align="center">Full-Stack Web Developer | Tech Enthusiast</h3>
