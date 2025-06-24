@@ -1,6 +1,11 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
-<img src="./assets/Banner.png" alt="banner image" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdrahatulislam/" target="_blank">
+    <img src="./assets/Banner.png" alt="banner image" width="100%" />
+  </a>
+</p>
+
 <p align="center">
   <img src="./assets/Hello World.gif" alt="animated banner" width="30%" />
 </p>
