@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdrahatulislam/" target="_blank">
-    <img src="./assets/Banner.png" alt="banner image" width="100%" />
+    <img src="./assets/Banner.png" alt="banner image" width="100%" height="90%" />
   </a>
 </p>
 
