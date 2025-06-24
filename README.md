@@ -1,6 +1,6 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
-<img src="./assets/wave-haikei (1).png" alt="banner image" width="100%" />
+<img src="https://www.canva.com/design/DAGrPlODRwg/5t6afbUY-i4mCbY0ZyTyeg/view" alt="banner image" width="100%" />
 <p align="center">
   <img src="./assets/Hello World.gif" alt="animated banner" width="30%" />
 </p>
