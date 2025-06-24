@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/Hello World.gif" alt="animated banner" width="25%" />
+  <img src="./assets/Hello World.gif" alt="animated banner" width="27%" />
 </p>
 <h1 align="center">I'm Rahat 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Scalable System Architect</h3>
+<h3 align="center">Full-Stack Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://my-fullstack-portfolio-frontend.vercel.app/" target="_blank">🌐 Portfolio</a> • 
