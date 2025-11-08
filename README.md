@@ -103,3 +103,14 @@ I'm open to freelance work, job opportunities, or just a good tech discussion.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Th3At0nic&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Th3At0nic/Th3At0nic/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+<br>
+<br>
+<br>
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Th3At0nic&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20%22 width="850" height="300" alt="Contribution Constellation"/>
+</div
