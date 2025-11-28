@@ -32,6 +32,13 @@
 
 ---
 
+
+### 📊 GitHub Achievement
+
+https://github-profile-trophy.vercel.app/?username=Th3At0nic&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🧠 About Me
 
 I'm a full-stack web developer passionate about building reliable, scalable backend systems and intuitive frontends.  
