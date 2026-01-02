@@ -99,7 +99,7 @@ A few full-stack projects I’ve worked on recently:
 
 ### 📬 Let's Connect
 
-I'm open to freelance work, job opportunities, or just a good tech discussion
+I'm open to freelance work, job opportunities, or just a good tech discussion.
 
 - 📧 [islammdrahatul@gmail.com](mailto:islammdrahatul@gmail.com)
 - 🌐 [Portfolio (rahat.dev)](https://my-fullstack-portfolio-frontend.vercel.app/)
