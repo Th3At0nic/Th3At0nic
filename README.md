@@ -23,11 +23,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=merko" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=merko&cache_seconds=1800" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=merko" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Th3At0nic&theme=merko&cache_seconds=1800" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko&cache_seconds=1800" />
 </p>
 
 ---
@@ -120,4 +120,4 @@ I'm open to freelance work, job opportunities, or just a good tech discussion
 <br>
  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Th3At0nic&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20%22 width="850" height="300" alt="Contribution Constellation"/>
-</div
+</div>
