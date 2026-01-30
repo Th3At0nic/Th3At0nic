@@ -93,7 +93,7 @@ A few full-stack projects I’ve worked on recently:
 
 ### 💬 Quote I Live By
 
-> “Think more than you code. Code less, but smarter.” – _Me_
+> “The moment my work needs recognition to feel meaningful, it stops being worship.”
 
 ---
 
