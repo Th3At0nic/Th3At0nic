@@ -85,7 +85,7 @@ A few full-stack projects I’ve worked on recently:
 - 🍔 **[Street Food Finder](https://street-bite-frontend.vercel.app/):** Discover, rate, and review local street food. Backend with REST APIs.
 - 🗓️ **[Vibevent - Event Management Application](https://vibevent-frontend-event-management.vercel.app):** Full-stack event management system with custom auth, event CRUD, advanced filtering, and a responsive, modern UI. Powered by TypeScript, MERN stack & RTK Query.
 - 💼 **[My Developer Portfolio](https://my-fullstack-portfolio-frontend.vercel.app/):** A clean, responsive showcase of my work and skillset
-- 🏏 **[BPL Team Selection](https://teamselection.netlify.app/):** A fun React app to create and manage your fantasy BPL team
+- 🏏 **[BPL Team Selection](https://teamselection.netlify.app/):** A fun React app to create and manage your fantasy BPL team.
 - 🏫 **University Management System:** Backend completed with robust structure; frontend in development.
 - 🛵 **Bike Service Center App:** Backend ready, UI coming soon.
 
