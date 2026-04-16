@@ -31,9 +31,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=merko&cache_seconds=1800" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko&cache_seconds=1800" /
-   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko&cache_seconds=1800" /> 
 </p>
+
 <p align="center">
    <a href="https://github.com/Th3At0nic">
       <img 
