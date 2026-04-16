@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=merko&border=7F3FBF&background=0D1117 />
+  <img src="https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=merko&border=7F3FBF&background=0D1117" />
   <br />
   <img src="https://github-readme-streak-stats.vercel.app/?user=Th3At0nic&theme=merko&cache_seconds=1800" />
   <br />
