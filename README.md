@@ -4,7 +4,7 @@
    <img align="right" src="https://komarev.com/ghpvc/?username=Th3At0nic" alt="Profile views"/>
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg)](https://wakatime.com/@shariful10)
+[![wakatime](https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg)](https://wakatime.com/@Th3At0nic)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdrahatulislam/" target="_blank">
@@ -35,20 +35,20 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/shariful10">
+   <a href="https://github.com/Th3At0nic">
       <img 
          src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=merko&border=7F3FBF&background=0D1117" 
-         alt="Shariful's GitHub streak" 
+         alt="Rahat's GitHub streak" 
          width="70%"
       />
    </a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/shariful10">
+   <a href="https://github.com/Th3At0nic">
       <img 
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariful10&theme=radical" 
-         alt="Sk Shariful Islam's GitHub Contribution" 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3At0nic&theme=merko" 
+         alt="Md Rahatul Islam's GitHub Contribution" 
          width="100%" 
       />
    </a>
