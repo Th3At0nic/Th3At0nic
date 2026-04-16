@@ -36,6 +36,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko&cache_seconds=1800" />
 </p>
 
+<p align="center">
+   <a href="https://github.com/shariful10">
+      <img 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" 
+         alt="Shariful's GitHub streak" 
+         width="70%"
+      />
+   </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/shariful10">
+      <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariful10&theme=radical" 
+         alt="Sk Shariful Islam's GitHub Contribution" 
+         width="100%" 
+      />
+   </a>
+</p>
+
 ---
 
 
