@@ -1,7 +1,7 @@
 <!-- Profile README for Th3At0nic (Md Rahatul Islam) -->
 
-<a href="https://komarev.com/ghpvc/?username=shariful05">
-   <img align="right" src="https://komarev.com/ghpvc/?username=shariful10" alt="Profile views"/>
+<a href="https://komarev.com/ghpvc/?username=Th3At0nic">
+   <img align="right" src="https://komarev.com/ghpvc/?username=Th3At0nic" alt="Profile views"/>
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg)](https://wakatime.com/@shariful10)
