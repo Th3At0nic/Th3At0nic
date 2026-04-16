@@ -44,6 +44,16 @@
    </a>
 </p>
 
+<p align="center">
+   <a href="https://github.com/Th3At0nic">
+      <img 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=merko&cache_seconds=1800" 
+         alt="Rahat's GitHub streak" 
+         width="70%"
+      />
+   </a>
+</p>
+
 ---
 
 
