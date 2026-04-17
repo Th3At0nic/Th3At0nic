@@ -33,7 +33,7 @@
       <img 
          src="https://github-readme-streak-stats.herokuapp.com/?user=Th3At0nic&theme=merko&cache_seconds=1800" 
          alt="Rahat's GitHub streak" 
-         width="70%"
+         width="50%"
       />
    </a>
 </p>
