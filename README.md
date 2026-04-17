@@ -58,14 +58,9 @@
 
 ---
 
+### 📊 GitHub Achievements
 
-### 📊 GitHub Achievement
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Th3At0nic&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-[![Th3At0nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3At0nic&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Th3At0nic&theme=onedark&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
