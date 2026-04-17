@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/Hello World.gif" alt="animated banner" width="18%" />
+  <img src="./assets/Hello World.gif" alt="animated banner" width="15%" />
 </p>
-<h1 align="center">I'm Rahat 👋</h1>
+<h2 align="center">I'm Rahat 👋</h2>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
