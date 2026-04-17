@@ -151,9 +151,6 @@ I'm open to freelance work, job opportunities, or just a good tech discussion
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Th3At0nic&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-<p align="center">
    <a href="https://github.com/Th3At0nic">
       <img 
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3At0nic&theme=merko" 
