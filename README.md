@@ -77,7 +77,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 🧠 Core Languages
 
@@ -86,7 +86,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-### ⚙️ Backend & Architecture
+#### ⚙️ Backend & Architecture
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
@@ -96,7 +96,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-## 🗄️ Database & ORM
+### 🗄️ Database & ORM
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
@@ -105,7 +105,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-## ⚡ Performance & Async Systems
+### ⚡ Performance & Async Systems
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Caching](https://img.shields.io/badge/-Caching-DC382D?style=flat)
 ![BullMQ](https://img.shields.io/badge/-BullMQ-EA4C89?style=flat)
@@ -114,20 +114,20 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-## 💳 Payments & Integrations
+### 💳 Payments & Integrations
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Viva Payments](https://img.shields.io/badge/-Viva%20Payments-1A73E8?style=flat)
 
 ---
 
-## 📦 File & Data Handling
+### 📦 File & Data Handling
 ![PDF Generation](https://img.shields.io/badge/-PDF%20Generation-FF5722?style=flat)
 ![File Processing](https://img.shields.io/badge/-File%20Processing-795548?style=flat)
 ![ZIP Handling](https://img.shields.io/badge/-ZIP%20Handling-3F51B5?style=flat)
 
 ---
 
-## 🎨 Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux)
@@ -137,7 +137,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-## 🛠 Tools & DevOps
+### 🛠 Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
