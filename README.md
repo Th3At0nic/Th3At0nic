@@ -79,7 +79,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ## 🛠 Tech Stack
 
-### 🧠 Core Languages
+#### 🧠 Core Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -96,7 +96,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-### 🗄️ Database & ORM
+#### 🗄️ Database & ORM
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
@@ -105,7 +105,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-### ⚡ Performance & Async Systems
+#### ⚡ Performance & Async Systems
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Caching](https://img.shields.io/badge/-Caching-DC382D?style=flat)
 ![BullMQ](https://img.shields.io/badge/-BullMQ-EA4C89?style=flat)
@@ -114,20 +114,20 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-### 💳 Payments & Integrations
+#### 💳 Payments & Integrations
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Viva Payments](https://img.shields.io/badge/-Viva%20Payments-1A73E8?style=flat)
 
 ---
 
-### 📦 File & Data Handling
+#### 📦 File & Data Handling
 ![PDF Generation](https://img.shields.io/badge/-PDF%20Generation-FF5722?style=flat)
 ![File Processing](https://img.shields.io/badge/-File%20Processing-795548?style=flat)
 ![ZIP Handling](https://img.shields.io/badge/-ZIP%20Handling-3F51B5?style=flat)
 
 ---
 
-### 🎨 Frontend
+#### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux)
@@ -137,7 +137,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-### 🛠 Tools & DevOps
+#### 🛠 Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
@@ -145,36 +145,11 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 ---
 
-### ☁️ Infrastructure & Storage
+#### ☁️ Infrastructure & Storage
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white)
 ![File Storage](https://img.shields.io/badge/-File%20Storage-8BC34A?style=flat)
 ![VPS Hosting](https://img.shields.io/badge/-VPS%20Hosting-607D8B?style=flat)
 ![Server Deployment](https://img.shields.io/badge/-Server%20Deployment-9E9E9E?style=flat)
-
----
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux)
-![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?style=flat&logo=redux)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-5F43DC?style=flat&logo=zod&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
