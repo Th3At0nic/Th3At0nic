@@ -44,15 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko&cache_seconds=1800" /> 
 </p>
 
-<p align="center">
-   <a href="https://github.com/Th3At0nic">
-      <img 
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3At0nic&theme=merko" 
-         alt="Md Rahatul Islam's GitHub Contribution" 
-         width="100%" 
-      />
-   </a>
-</p>
+
 
 
 
