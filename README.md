@@ -112,6 +112,8 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 
 #### 📦 File & Data Handling
 ![PDF Generation](https://img.shields.io/badge/-PDF%20Generation-FF5722?style=flat)
+![Excel Generation](https://img.shields.io/badge/-Excel%20Generation-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Word Generation](https://img.shields.io/badge/-Document%20Generation-2B579A?style=flat&logo=microsoftword&logoColor=white)
 ![File Processing](https://img.shields.io/badge/-File%20Processing-795548?style=flat)
 ![ZIP Handling](https://img.shields.io/badge/-ZIP%20Handling-3F51B5?style=flat)
 
