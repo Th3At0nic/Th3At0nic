@@ -44,16 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3At0nic&layout=compact&theme=merko&cache_seconds=1800" /> 
 </p>
 
-
-
-
-
----
-
-### 📊 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Th3At0nic&theme=algolia&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🧠 About Me
@@ -144,6 +134,12 @@ A few full-stack projects I’ve worked on recently:
 
 ---
 
+### 📊 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Th3At0nic&theme=algolia&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📬 Let's Connect
 
 I'm open to freelance work, job opportunities, or just a good tech discussion
@@ -157,6 +153,16 @@ I'm open to freelance work, job opportunities, or just a good tech discussion
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Th3At0nic&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+<p align="center">
+   <a href="https://github.com/Th3At0nic">
+      <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th3At0nic&theme=merko" 
+         alt="Md Rahatul Islam's GitHub Contribution" 
+         width="100%" 
+      />
+   </a>
+</p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Th3At0nic/Th3At0nic/output/snake.svg" alt="Snake animation" />
