@@ -48,13 +48,16 @@
 
 ### 🧠 About Me
 
-I'm a full-stack web developer passionate about building reliable, scalable backend systems and intuitive frontends
-Currently focusing on modern web technologies like **Next.js**, **Prisma**, and **PostgreSQL**.
+I'm a full-stack developer focused on building scalable, production-ready backend systems and clean, maintainable applications.
 
-- 🛠️ Specializing in **backend architecture**, RESTful APIs, and full-stack apps
-- 💡 I love clean code, smart design patterns,and meaningful abstractions
-- 🌱 Always learning, building, and solving problems with curiosity and care
-- 🧰 Tech Stack: TypeScript, Node.js, Express, MongoDB, PostgreSQL, Prisma, React, Next.js
+I work primarily with Node.js, TypeScript, and MongoDB/PostgreSQL, designing modular architectures, RESTful APIs, and systems that hold up under real-world usage.
+
+🛠️ Experience with payments (Stripe, Viva), webhooks, background jobs (BullMQ), and transactional data consistency  
+⚙️ Strong focus on system design, performance, and clean business logic  
+☁️ Hands-on with VPS deployment, AWS S3, and file processing pipelines (PDF, Excel, ZIP)  
+🧰 Tech Stack: TypeScript, Node.js, Express, MongoDB, PostgreSQL, Prisma, Redis, React, Next.js  
+
+I care about building systems that are not just functional, but reliable, scalable, and easy to evolve.
 
 ---
 
