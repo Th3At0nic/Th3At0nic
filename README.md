@@ -92,6 +92,7 @@ Currently focusing on modern web technologies like **Next.js**, **Prisma**, and 
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-5F43DC?style=flat&logo=zod&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
