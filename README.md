@@ -152,12 +152,6 @@ A few full-stack projects I’ve worked on recently:
 
 ---
 
-### 💬 Quote I Live By
-
-> “The moment my work needs recognition to feel meaningful, it stops being worship.”
-
----
-
 ### 📬 Let's Connect
 
 I'm open to freelance work, job opportunities, or just a good tech discussion
