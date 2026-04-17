@@ -60,7 +60,7 @@
 
 ### 📊 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Th3At0nic&theme=radical&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Th3At0nic&theme=algolia&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
