@@ -133,7 +133,7 @@ A few full-stack projects I’ve worked on recently:
 - 💼 **[My Developer Portfolio](https://my-fullstack-portfolio-frontend.vercel.app/):** A clean, responsive showcase of my work and skillset.
 - 🏏 **[BPL Team Selection](https://teamselection.netlify.app/):** A fun React app to create and manage your fantasy BPL team.
 - 🏫 **University Management System:** Backend completed with robust structure; frontend in development.
-- 🛵 **Bike Service Center App:** Backend ready, UI coming soon...
+- 🛵 **Bike Service Center App:** Backend ready, UI coming soon.
 
 ---
 
