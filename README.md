@@ -121,8 +121,8 @@ I care about building systems that are not just functional, but reliable, scalab
 ![VPS Hosting](https://img.shields.io/badge/-VPS%20Hosting-607D8B?style=flat)
 ![Server Deployment](https://img.shields.io/badge/-Server%20Deployment-9E9E9E?style=flat)
 
----
 <!-- 
+---
 ### 🚀 Featured Projects
 
 A few full-stack projects I’ve worked on recently:
@@ -135,8 +135,8 @@ A few full-stack projects I’ve worked on recently:
 - 🏫 **University Management System:** Backend completed with robust structure; frontend in development.
 - 🛵 **Bike Service Center App:** Backend ready, UI coming soon...
 
--->
 ---
+-->
 
 ### 📊 GitHub Achievements
 
