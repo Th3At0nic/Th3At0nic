@@ -169,11 +169,13 @@ I'm open to freelance work, job opportunities, or just a good tech discussion
   <img src="https://raw.githubusercontent.com/Th3At0nic/Th3At0nic/output/snake.svg" alt="Snake animation" />
   <br><br>
 
+<!-- 
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Th3At0nic&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true"
     width="850"
     height="300"
     alt="Contribution Graph"
   />
+  -->
 </div>
 
