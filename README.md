@@ -57,7 +57,7 @@ I work primarily with Node.js, TypeScript, and MongoDB/PostgreSQL, designing mod
 ☁️ Hands-on with VPS deployment, AWS S3, and file processing pipelines (PDF, Excel, ZIP)  
 🧰 Tech Stack: TypeScript, Node.js, Express, MongoDB, PostgreSQL, Prisma, Redis, React, Next.js  
 
-I care about building systems that are not just functional,  but reliable, scalable, and easy to evolve.
+I care about building systems that are not just functional, but reliable, scalable, and easy to evolve.
 
 ---
 
