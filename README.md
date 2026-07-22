@@ -53,7 +53,7 @@ I'm a full-stack developer focused on building scalable, production-ready backen
 I work primarily with Node.js, TypeScript, and MongoDB/PostgreSQL, designing modular architectures, RESTful APIs, and systems that hold up under real-world usage.
 
 🛠️ Experience with payments (Stripe, Viva), webhooks, background jobs (BullMQ), and transactional data consistency  
-⚙️ Strong focus on system design, performance, and clean business logic  
+⚙️ Strong focus on system design, performance, and clean business logic.  
 ☁️ Hands-on with VPS deployment, AWS S3, and file processing pipelines (PDF, Excel, ZIP)  
 🧰 Tech Stack: TypeScript, Node.js, Express, MongoDB, PostgreSQL, Prisma, Redis, React, Next.js  
 
